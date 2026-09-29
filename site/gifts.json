@@ -1,0 +1,8 @@
+{
+  "updated": "2026-09-28",
+  "items": [
+    {"name": "Example: Mechanical keyboard", "url": "https://example.com", "price": "$120", "description": "Placeholder item with a link. Replace me.", "priority": "high", "category": "Tech"},
+    {"name": "Example: Soccer jersey", "price": "$90", "description": "Placeholder with no link, description only. Replace me.", "priority": "medium", "category": "Sports"},
+    {"name": "Example: Pizza stone", "url": "https://example.com", "description": "Placeholder with no price or category. Replace me.", "priority": "low"}
+  ]
+}
