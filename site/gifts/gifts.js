@@ -1,5 +1,4 @@
 (function () {
-  var order = { high: 0, medium: 1, low: 2 };
   var status = document.getElementById('status');
   var list = document.getElementById('list');
   var updated = document.getElementById('updated');
@@ -28,11 +27,7 @@
       h.textContent = String(it.name);
     }
     li.appendChild(h);
-    var pr = order.hasOwnProperty(it.priority) ? it.priority : 'low';
-    var meta = el('p', null, 'prob');
-    meta.appendChild(el('strong', pr.charAt(0).toUpperCase() + pr.slice(1) + ' priority'));
-    if (it.price) meta.appendChild(document.createTextNode(' · ' + it.price));
-    li.appendChild(meta);
+    if (it.price) li.appendChild(el('p', it.price, 'prob'));
     if (it.description) li.appendChild(el('p', it.description));
     if (it.category) {
       var ul = el('ul', null, 'tags');
@@ -48,11 +43,7 @@
       var items = (d && Array.isArray(d.items) ? d.items : []).filter(function (i) { return i && i.name; });
       if (d && d.updated) updated.textContent = 'Last updated: ' + d.updated;
       if (!items.length) { status.textContent = 'Nothing on the list yet. Check back soon.'; return; }
-      items.map(function (it, i) { return [it, i]; }).sort(function (a, b) {
-        var x = order.hasOwnProperty(a[0].priority) ? order[a[0].priority] : 2;
-        var y = order.hasOwnProperty(b[0].priority) ? order[b[0].priority] : 2;
-        return x - y || a[1] - b[1];
-      }).forEach(function (p) { list.appendChild(card(p[0])); });
+      items.forEach(function (it) { list.appendChild(card(it)); });
       status.hidden = true;
     })
     .catch(function () {
