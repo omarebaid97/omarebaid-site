@@ -2,8 +2,8 @@
   "updated": "2026-10-02",
   "items": [
     {"name": "Select Numero 10 Soccer Ball", "url": "https://www.amazon.com/dp/B0DPRB36SK?th=1", "price": "$56.25", "description": "White/Black NFHS V25, size 5, single ball.", "category": "Soccer"},
-    {"name": "2000–02 Egypt Fan Shirt", "url": "https://www.classicfootballshirts.com/2000-02-egypt-fan-shirt-910-xl-egyt00172783.html", "description": "Vintage, size XL, 9/10 condition. One-off listing, may sell out.", "category": "Soccer"},
-    {"name": "2026–27 Egypt GK Shirt", "url": "https://www.classicfootballshirts.com/2026-27-egypt-gk-shirt787112-80.html", "description": "Size XL.", "category": "Soccer"},
-    {"name": "2026–27 Houston Dynamo Third Shirt", "url": "https://www.classicfootballshirts.com/2026-27-houston-dynamo-third-shirtjy5868.html", "description": "Size XL.", "category": "Soccer"}
+    {"name": "2000–02 Egypt Fan Shirt", "url": "https://www.classicfootballshirts.com/2000-02-egypt-fan-shirt-910-xl-egyt00172783.html", "price": "$49.99", "description": "Vintage, size XL, 9/10 condition. One-off listing, may sell out.", "category": "Soccer"},
+    {"name": "2026–27 Egypt GK Shirt", "url": "https://www.classicfootballshirts.com/2026-27-egypt-gk-shirt787112-80.html", "price": "$99.99", "description": "Size XL.", "category": "Soccer"},
+    {"name": "2026–27 Houston Dynamo Third Shirt", "url": "https://www.classicfootballshirts.com/2026-27-houston-dynamo-third-shirtjy5868.html", "price": "$99.99", "description": "Size XL.", "category": "Soccer"}
   ]
 }
