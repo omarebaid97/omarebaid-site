@@ -1,9 +1,15 @@
 {
-  "updated": "2026-10-02",
+  "updated": "2026-10-05",
   "items": [
     {"name": "Select Numero 10 Soccer Ball", "url": "https://www.amazon.com/dp/B0DPRB36SK?th=1", "price": "$56.25", "description": "White/Black NFHS V25, size 5, single ball.", "category": "Soccer"},
     {"name": "2000–02 Egypt Fan Shirt", "url": "https://www.classicfootballshirts.com/2000-02-egypt-fan-shirt-910-xl-egyt00172783.html", "price": "$49.99", "description": "Vintage, size XL, 9/10 condition. One-off listing, may sell out.", "category": "Soccer"},
     {"name": "2026–27 Egypt GK Shirt", "url": "https://www.classicfootballshirts.com/2026-27-egypt-gk-shirt787112-80.html", "price": "$99.99", "description": "Size XL.", "category": "Soccer"},
-    {"name": "2026–27 Houston Dynamo Third Shirt", "url": "https://www.classicfootballshirts.com/2026-27-houston-dynamo-third-shirtjy5868.html", "price": "$99.99", "description": "Size XL.", "category": "Soccer"}
+    {"name": "2026–27 Houston Dynamo Third Shirt", "url": "https://www.classicfootballshirts.com/2026-27-houston-dynamo-third-shirtjy5868.html", "price": "$99.99", "description": "Size XL.", "category": "Soccer"},
+    {"name": "Victorinox 3-Piece Wood Flat Set", "url": "https://www.victorinox.com/en-US/Products/Cutlery/Knife-Blocks-Sets/3-Piece-Wood-Flat-Set/p/5.2060.20R.3US3", "price": "$148.99", "description": "Paring knife, bread knife, and 8-inch chef's knife with wood handles.", "category": "Kitchen"},
+    {"name": "Victorinox Wood Kitchen Cleaver", "url": "https://www.victorinox.com/en-US/Products/Cutlery/Chef's-Knives/Wood-Kitchen-Cleaver/p/5.4000.18", "price": "$161.00", "description": "7-inch blade, modified maple handle.", "category": "Kitchen"},
+    {"name": "Egyptian King Jersey (Away Edition)", "url": "https://commafootball.com/products/egyptian-king-jersey-away-edition?variant=52931388309820", "price": "A$77.00", "description": "Size 2XL. Comma Football; price in Australian dollars.", "category": "Soccer"},
+    {"name": "Egyptian King Jersey (2025 Champions)", "url": "https://commafootball.com/products/egyptian-king-2025-english-champions-jersey?variant=51604568441148", "price": "A$71.50", "description": "Size 2XL. Comma Football; price in Australian dollars.", "category": "Soccer"},
+    {"name": "Egyptian King Jersey", "url": "https://commafootball.com/products/egyptian-king-jersey?variant=52931380805948", "price": "A$77.00", "description": "Size 2XL. Comma Football; price in Australian dollars.", "category": "Soccer"},
+    {"name": "Egyptian King Heritage Jersey (2026WC Edition)", "url": "https://commafootball.com/products/egyptian-king-heritage-jersey-2026wc-edition?variant=52965020926268", "price": "A$110.00", "description": "Size 2XL. Comma Football; price in Australian dollars.", "category": "Soccer"}
   ]
 }
