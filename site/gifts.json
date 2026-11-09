@@ -1,12 +1,12 @@
 {
   "updated": "2026-11-09",
   "items": [
-    {"name": "Solo Stove Heat Deflector (Bonfire 19.5)", "url": "https://www.solostove.com/us/en-us/p/heat-deflector?sku=SSBON-DEFLECTOR&size=Summit+19.5+%7C+Bonfire+19.5", "description": "For the Bonfire / Summit 19.5\" fire pit.", "category": "Outdoor"},
+    {"name": "Solo Stove Heat Deflector (Bonfire 19.5)", "url": "https://www.solostove.com/us/en-us/p/heat-deflector?sku=SSBON-DEFLECTOR&size=Summit+19.5+%7C+Bonfire+19.5", "price": "$159.99", "description": "For the Bonfire / Summit 19.5\" fire pit.", "category": "Outdoor"},
     {"name": "Baking Steel Original", "url": "https://bakingsteel.com/products/the-baking-steel-original", "price": "$139.00", "description": "16\" x 14\", 1/4\" thick pre-seasoned pizza steel.", "category": "Kitchen"},
     {"name": "EVERYAMP SnapPlate License Plate Holder", "url": "https://everyamp.com/products/snapplate-license-plate-holder-tesla-model-y-yl?variant=49884828827969", "price": "$140.00", "description": "No-drill front plate holder for Tesla Model Y (2026–27 Premium/YL, SnapPlate+).", "category": "Car"},
     {"name": "Zulay Cast Iron Juicer", "url": "https://www.zulaykitchen.com/products/cast-iron-juicer?variant=11541766144036", "price": "$89.95", "description": "Manual cast iron citrus press.", "category": "Kitchen"},
     {"name": "Travelpro Maxlite Air V2 Carry-On Spinner", "url": "https://travelpro.com/products/maxlite®-air-v2-carry-on-hardside-spinner?variant=41770707484770", "price": "$148.00", "description": "Hardside expandable carry-on (variant as linked).", "category": "Travel"},
-    {"name": "ALPS Mountaineering King Kong Chair", "url": "https://www.rei.com/product/213470/alps-mountaineering-king-kong-chair?sku=2134700001", "description": "Oversized camp chair, 800 lb capacity.", "category": "Outdoor"},
+    {"name": "ALPS Mountaineering King Kong Chair", "url": "https://www.rei.com/product/213470/alps-mountaineering-king-kong-chair?sku=2134700001", "price": "$67.73", "description": "Oversized camp chair, 800 lb capacity.", "category": "Outdoor"},
     {"name": "McCulloch MC1230 Handheld Steam Cleaner", "url": "https://mccullochsteam.com/products/mc1230-handheld-steam-cleaner", "price": "$59.99", "description": "Chemical-free handheld steamer with 11 attachments.", "category": "Home"}
   ]
 }
